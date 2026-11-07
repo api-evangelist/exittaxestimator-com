@@ -1,4 +1,4 @@
-# exittaxestimator-com
+# Exit Tax Estimator
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,110 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-exittaxestimator-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://exittaxestimator.com/
+Exit Tax Estimator provides a free web tool that explains Illinois exit tax rules, clarifies that there is no Illinois exit tax, and outlines related state tax considerations such as New Jersey’s exit tax. The site offers detailed FAQs, guidance on filing part‑year Illinois returns, and information on residency, domicile, and multi‑state tax implications for individuals moving out of Illinois.
+
+**Areas:** Company · Tax · Illinois · ExitTax · Finance
+
+## Exit Tax Estimator on APIs.io
+
+Everything profiled for Exit Tax Estimator is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/exittaxestimator-com/](https://apis.io/providers/exittaxestimator-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [Exit Tax Estimator API](https://apis.io/apis/exittaxestimator-com/exit-tax-estimator-api/) — Exit Tax Estimator API provides tools to check Illinois exit tax applicability and submit enquiries.
+- [Exit Tax Estimator Enquiry API](https://apis.io/apis/exittaxestimator-com/exittaxestimator-com-enquiry-api/) — enquiry
+- [Exit Tax Estimator Guide API](https://apis.io/apis/exittaxestimator-com/exittaxestimator-com-guide-api/) — checker
+- [Exit Tax Estimator MCP API](https://apis.io/apis/exittaxestimator-com/exittaxestimator-com-mcp-api/) — The mcp API from Exit Tax Estimator — 1 operation(s) for mcp.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Exittaxestimator Com Agentic Access](https://apis.io/agentic-access/exittaxestimator-com/exittaxestimator-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Exit Tax Estimator API Rules](https://apis.io/rules/exittaxestimator-com/exittaxestimator-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Exittaxestimator Com Authentication](https://apis.io/security/exittaxestimator-com/exittaxestimator-com-authentication/)
+- [Exittaxestimator Com Domain Security](https://apis.io/security/exittaxestimator-com/exittaxestimator-com-domain-security/)
+- [Exittaxestimator Com Vulnerability Disclosure](https://apis.io/security/exittaxestimator-com/exittaxestimator-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://exittaxestimator.com/)
+- [Documentation](https://exittaxestimator.com/about/)
+- [Getting started](https://exittaxestimator.com/part-year-state-return/)
+- [API reference](https://exittaxestimator.com/datasets/)
+- [Support](https://exittaxestimator.com/contact/)
+- [Security](https://exittaxestimator.com/terms)
+- [Terms of service](https://exittaxestimator.com/terms/)
+- [Privacy policy](https://exittaxestimator.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 45.7** — developing · rubric 0.27.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 45.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 51.7 |
+| Access clarity | 21.1 |
+
+**Agent readiness 33.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/exittaxestimator-com/](https://apis.io/providers/exittaxestimator-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Exit Tax Estimator: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/exittaxestimator-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
